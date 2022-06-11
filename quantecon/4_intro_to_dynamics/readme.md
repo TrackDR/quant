@@ -6,5 +6,5 @@
 26. Samuelson Multiplier-Accelerator
 27. Kesten Processes and Firm Dynamics
 28. Wealth Distribution Dynamics
-29. A First Look at the Kalman Filter
+29. [A First Look at the Kalman Filter](29_A_First_Look_at_the_Kalman_Filter.ipynb)
 30. Shortest Paths
