@@ -11,3 +11,5 @@ https://quantecon.org/quantecon-py/
 https://notes.quantecon.org/
 
 https://quantecon.org/notebooks/
+
+https://quantecon.org/projects/
