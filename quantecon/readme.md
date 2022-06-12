@@ -6,6 +6,8 @@ https://quanteconpy.readthedocs.io/en/latest/tools/kalman.html
 
 https://python.quantecon.org/kalman.html
 
+From https://github.com/QuantEcon/lecture-python.notebooks
+
 [Tools and Techniques](1_tools_and_techniques)
 
 1. Geometric Series for Elementary Economics
