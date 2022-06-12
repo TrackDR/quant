@@ -6,7 +6,7 @@ https://quanteconpy.readthedocs.io/en/latest/tools/kalman.html
 
 https://python.quantecon.org/kalman.html
 
-Tools and Techniques
+[Tools and Techniques](1_tools_and_techniques)
 
 1. Geometric Series for Elementary Economics
 2. Modeling COVID 19
@@ -36,7 +36,7 @@ Linear Programming
 19. Optimal Transport
 20. Von Neumann Growth Model (and a Generalization)
 
-Introduction to Dynamics
+[Introduction to Dynamics](4_intro_to_dynamics)
 
 21. Dynamics in One Dimension
 22. AR1 Processes
@@ -46,7 +46,7 @@ Introduction to Dynamics
 26. Samuelson Multiplier-Accelerator
 27. Kesten Processes and Firm Dynamics
 28. Wealth Distribution Dynamics
-29. A First Look at the Kalman Filter
+29. [A First Look at the Kalman Filter](4_intro_to_dynamics/29_A_First_Look_at_the_Kalman_Filter.ipynb)
 30. Shortest Paths
 
 Search
